@@ -110,7 +110,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+![WhatsApp Image 2025-10-30 at 12 04 17_514a1445](https://github.com/user-attachments/assets/0047ff23-7aaa-4260-83bc-5966a126a155)
+
 CASE 2: LED OFF
+
+![WhatsApp Image 2025-10-30 at 12 04 18_1ba69f21](https://github.com/user-attachments/assets/c46328f0-2c59-4024-9ee8-74313629c31b)
 
 ---
 ### RESULT
